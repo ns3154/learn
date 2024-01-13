@@ -18,7 +18,7 @@
 	</modules>
 
 	<properties>
-		<dubbo.version>2.7.7</dubbo.version>
+		<dubbo.version>2.7.21</dubbo.version>
 		<dubbo-spring-boot-starter>2.7.6</dubbo-spring-boot-starter>
 		<zookeeper.version>3.4.10</zookeeper.version>
 		<curator.framework.version>4.2.0</curator.framework.version>
